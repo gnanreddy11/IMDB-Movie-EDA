@@ -63,8 +63,3 @@ This project explores the **IMDB Top 1000 Movies dataset** to uncover trends in 
 - **Steven Spielberg is the most frequently featured director** in the dataset.
 - **Box office revenue has grown significantly post-2010**, with **2018 as the highest-earning year**.
 
----
-
-## 📌 **Next Steps**
-📌 **Would you like to extend this analysis** by comparing IMDB ratings to **Rotten Tomatoes scores**, or move to the **next data visualization project?** 🚀
-
